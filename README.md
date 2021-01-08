@@ -1,6 +1,5 @@
 # DNN-CNN_FashionMNIST
-
-Inha Unviersity - Computer Vision Term Project
+Computer Vision - Term Project / 2020-2 수강
 
 - dataset : Fashion MNIST
 - task : classification 
